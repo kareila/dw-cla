@@ -18,4 +18,4 @@ How to submit your CLA
 * Download a copy of the CLA from this repository.
 * Print out the last page and sign it. (Save a tree! Only print and send the last page.)
 
-  You can send a physical signed copy to Dreamwidth Studios, LLC, PO Box 39608, Baltimore MD, 21212, or a scanned copy (or picture taken) of your signature page to denise@dwscoalition.org.
+  You can send a physical signed copy to Dreamwidth Studios, LLC, PO Box 39608, Baltimore MD, 21212, or a scanned copy (or picture taken) of your signature page to denise@dreamwidth.org.
